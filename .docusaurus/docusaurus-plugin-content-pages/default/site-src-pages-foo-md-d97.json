@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/foo",
+  "source": "@site/src/pages/foo.md",
+  "title": "My Markdown page",
+  "description": "This is a Markdown page",
+  "frontMatter": {},
+  "unlisted": false
+}
